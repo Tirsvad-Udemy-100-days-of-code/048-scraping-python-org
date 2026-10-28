@@ -1,0 +1,37 @@
+[build-system]
+requires = ["hatchling>=1.27"]
+build-backend = "hatchling.build"
+
+[project]
+name = "scraping-python-org"
+version = "0.1.0"
+description = "Scrape the upcoming events from python.org with Selenium."
+requires-python = ">=3.12"
+dependencies = ["selenium>=4.25"]
+
+[dependency-groups]
+dev = ["pytest>=8.3", "ruff>=0.8", "mypy>=1.13"]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/scraping_python_org"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+markers = ["browser: needs a headless Chrome installed"]
+
+[tool.ruff]
+line-length = 100
+src = ["src", "tests"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B", "D", "ANN", "SIM", "T20"]
+ignore = ["D203", "D213"]
+
+[tool.ruff.lint.per-file-ignores]
+"tests/**" = ["D"]
+"src/scraping_python_org/presentation/cli.py" = ["T201"]
+
+[tool.mypy]
+strict = true
+mypy_path = "src"
