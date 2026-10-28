@@ -4,7 +4,7 @@
 
 ## Langkah 1 - Buka laman
 
-![Laman utama python.org](images/01-python-org-home.png)
+![Laman utama python.org](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/048-scrapping-python-org/raw/branch/main/docs/screenshots/01-python-org-home.png)
 
 `driver.get("https://www.python.org/")` memuatkan laman dalam Chrome.
 
@@ -13,7 +13,7 @@ Ia mesti ditutup semula, jadi kod moden menggunakan `try/finally`.
 
 ## Langkah 2 - Cari widget dengan alat pemeriksa
 
-![Widget Upcoming Events](images/02-event-widget.png)
+![Widget Upcoming Events](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/048-scrapping-python-org/raw/branch/main/docs/screenshots/02-event-widget.png)
 
 Klik kanan pada widget dan pilih *Inspect*. Acara berada dalam elemen berkelas
 `event-widget`; setiap acara ialah `li` yang mengandungi teg `time` dan `a`.
@@ -23,7 +23,7 @@ bekas yang menyimpan data yang tepat seperti yang dikehendaki.
 
 ## Langkah 3 - Pilih lima item senarai dengan pemilih CSS
 
-![Lima item senarai ditandakan merah](images/03-event-list-highlighted.png)
+![Lima item senarai ditandakan merah](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/048-scrapping-python-org/raw/branch/main/docs/screenshots/03-event-list-highlighted.png)
 
 `driver.find_elements(By.CSS_SELECTOR, ".event-widget li")` mengembalikan lima
 item. Pemilih berasaskan kelas lebih pendek dan lebih stabil daripada XPath
@@ -34,7 +34,7 @@ pemilih CSS lebih baik daripada XPath.
 
 ## Langkah 4 - Bina kamus
 
-![Kamus yang dicetak](images/04-output-dictionary.png)
+![Kamus yang dicetak](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/048-scrapping-python-org/raw/branch/main/docs/screenshots/04-output-dictionary.png)
 
 Untuk setiap item kita baca `time` dan `a` lalu simpan di bawah indeks item itu,
 dengan `enumerate` dan bukannya pembilang manual.
