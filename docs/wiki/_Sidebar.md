@@ -1,4 +1,4 @@
-**English** · [Dansk](Home-da) · [Bahasa Malaysia](Home-ms)
+**English** | [Dansk](Home-da) | [Bahasa Malaysia](Home-ms)
 
 - [Home](Home)
 - [Lecture steps](Lecture-Steps)

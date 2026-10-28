@@ -1,6 +1,6 @@
-[English](Home) · **Dansk** · [Bahasa Malaysia](Home-ms)
+[English](Home) | **Dansk** | [Bahasa Malaysia](Home-ms)
 
-# Dag 48 – Scraping af python.org med Selenium
+# Dag 48 - Scraping af python.org med Selenium
 
 I denne lektion bruger vi Selenium til at læse de fem kommende begivenheder på
 [python.org](https://www.python.org/) og samle dem i en dictionary:

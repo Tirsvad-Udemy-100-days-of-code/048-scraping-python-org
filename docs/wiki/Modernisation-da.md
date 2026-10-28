@@ -1,4 +1,4 @@
-[English](Modernisation) · **Dansk** · [Bahasa Malaysia](Modernisation-ms)
+[English](Modernisation) | **Dansk** | [Bahasa Malaysia](Modernisation-ms)
 
 # Modernisering
 

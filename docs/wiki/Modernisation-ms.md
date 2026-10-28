@@ -1,4 +1,4 @@
-[English](Modernisation) · [Dansk](Modernisation-da) · **Bahasa Malaysia**
+[English](Modernisation) | [Dansk](Modernisation-da) | **Bahasa Malaysia**
 
 # Pemodenan
 
