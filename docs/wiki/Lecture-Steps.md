@@ -1,8 +1,8 @@
-**English** · [Dansk](Lecture-Steps-da) · [Bahasa Malaysia](Lecture-Steps-ms)
+**English** | [Dansk](Lecture-Steps-da) | [Bahasa Malaysia](Lecture-Steps-ms)
 
 # Lecture steps
 
-## Step 1 – Open the page
+## Step 1 - Open the page
 
 ![python.org home page](images/01-python-org-home.png)
 
@@ -11,7 +11,7 @@
 **What you gain:** the driver is your remote control for a real browser. It
 must always be closed again, so the modern code wraps it in `try/finally`.
 
-## Step 2 – Locate the widget with the inspector
+## Step 2 - Locate the widget with the inspector
 
 ![The Upcoming Events widget](images/02-event-widget.png)
 
@@ -22,7 +22,7 @@ with the class `event-widget`; each event is an `li` holding a `time` and an
 **What you gain:** you learn to read the HTML tree and find the container that
 holds exactly the data you want.
 
-## Step 3 – Select the five list items with a CSS selector
+## Step 3 - Select the five list items with a CSS selector
 
 ![The five list items outlined in red](images/03-event-list-highlighted.png)
 
@@ -33,7 +33,7 @@ copied from the inspector, and it does not match unrelated links.
 **What you gain:** you know the Selenium locator strategies and when CSS
 selectors beat XPath.
 
-## Step 4 – Build the dictionary
+## Step 4 - Build the dictionary
 
 ![The printed dictionary](images/04-output-dictionary.png)
 

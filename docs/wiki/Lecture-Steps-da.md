@@ -1,8 +1,8 @@
-[English](Lecture-Steps) · **Dansk** · [Bahasa Malaysia](Lecture-Steps-ms)
+[English](Lecture-Steps) | **Dansk** | [Bahasa Malaysia](Lecture-Steps-ms)
 
 # Lektionens trin
 
-## Trin 1 – Åbn siden
+## Trin 1 - Åbn siden
 
 ![Forsiden på python.org](images/01-python-org-home.png)
 
@@ -11,7 +11,7 @@
 **Hvad du får ud af det:** driveren er din fjernbetjening til en rigtig browser.
 Den skal altid lukkes igen, så den moderne kode bruger `try/finally`.
 
-## Trin 2 – Find widgetten med inspektionsværktøjet
+## Trin 2 - Find widgetten med inspektionsværktøjet
 
 ![Widgetten Upcoming Events](images/02-event-widget.png)
 
@@ -21,7 +21,7 @@ klassen `event-widget`; hver begivenhed er en `li` med et `time`- og et `a`-tag.
 **Hvad du får ud af det:** du lærer at læse HTML-træet og finde den beholder,
 der rummer præcis de data, du vil have.
 
-## Trin 3 – Vælg de fem listepunkter med en CSS-selector
+## Trin 3 - Vælg de fem listepunkter med en CSS-selector
 
 ![De fem listepunkter markeret med rødt](images/03-event-list-highlighted.png)
 
@@ -32,7 +32,7 @@ XPath, man kopierer fra inspektøren, og den rammer ikke urelaterede links.
 **Hvad du får ud af det:** du kender Seleniums locator-strategier og ved,
 hvornår CSS-selectors slår XPath.
 
-## Trin 4 – Byg dictionary'en
+## Trin 4 - Byg dictionary'en
 
 ![Den udskrevne dictionary](images/04-output-dictionary.png)
 

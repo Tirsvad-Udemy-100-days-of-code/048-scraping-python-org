@@ -1,6 +1,6 @@
-**English** · [Dansk](Home-da) · [Bahasa Malaysia](Home-ms)
+**English** | [Dansk](Home-da) | [Bahasa Malaysia](Home-ms)
 
-# Day 48 – Scraping python.org with Selenium
+# Day 48 - Scraping python.org with Selenium
 
 In this lecture we use Selenium to read the five upcoming events from
 [python.org](https://www.python.org/) and organise them in a dictionary:

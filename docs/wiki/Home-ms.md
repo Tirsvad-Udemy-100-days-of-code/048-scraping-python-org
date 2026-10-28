@@ -1,6 +1,6 @@
-[English](Home) · [Dansk](Home-da) · **Bahasa Malaysia**
+[English](Home) | [Dansk](Home-da) | **Bahasa Malaysia**
 
-# Hari 48 – Mengikis python.org dengan Selenium
+# Hari 48 - Mengikis python.org dengan Selenium
 
 Dalam pelajaran ini kita menggunakan Selenium untuk membaca lima acara akan
 datang di [python.org](https://www.python.org/) dan menyusunnya dalam kamus

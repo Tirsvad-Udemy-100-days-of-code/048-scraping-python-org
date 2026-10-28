@@ -1,8 +1,8 @@
-[English](Lecture-Steps) · [Dansk](Lecture-Steps-da) · **Bahasa Malaysia**
+[English](Lecture-Steps) | [Dansk](Lecture-Steps-da) | **Bahasa Malaysia**
 
 # Langkah pelajaran
 
-## Langkah 1 – Buka laman
+## Langkah 1 - Buka laman
 
 ![Laman utama python.org](images/01-python-org-home.png)
 
@@ -11,7 +11,7 @@
 **Apa yang anda peroleh:** driver ialah alat kawalan jauh untuk pelayar sebenar.
 Ia mesti ditutup semula, jadi kod moden menggunakan `try/finally`.
 
-## Langkah 2 – Cari widget dengan alat pemeriksa
+## Langkah 2 - Cari widget dengan alat pemeriksa
 
 ![Widget Upcoming Events](images/02-event-widget.png)
 
@@ -21,7 +21,7 @@ Klik kanan pada widget dan pilih *Inspect*. Acara berada dalam elemen berkelas
 **Apa yang anda peroleh:** anda belajar membaca pepohon HTML dan mencari
 bekas yang menyimpan data yang tepat seperti yang dikehendaki.
 
-## Langkah 3 – Pilih lima item senarai dengan pemilih CSS
+## Langkah 3 - Pilih lima item senarai dengan pemilih CSS
 
 ![Lima item senarai ditandakan merah](images/03-event-list-highlighted.png)
 
@@ -32,7 +32,7 @@ panjang yang disalin dari pemeriksa, dan ia tidak memadankan pautan lain.
 **Apa yang anda peroleh:** anda mengenali strategi locator Selenium dan bila
 pemilih CSS lebih baik daripada XPath.
 
-## Langkah 4 – Bina kamus
+## Langkah 4 - Bina kamus
 
 ![Kamus yang dicetak](images/04-output-dictionary.png)
 
